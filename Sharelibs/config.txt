@@ -1,17 +1,17 @@
 [verInfo]
-sdkVer=1.1.39
-applibVer=1.0.14
-emvVer=1.1.5
+sdkVer      =1.1.39
+applibVer   =1.0.14
+emvVer      =1.1.5
 
-mainAppVer=0.19
+mainAppVer  =0.19
 
-fontVer_def=1.0
-fontVer_unicode=1.0
+fontVer_def         =1.0
+fontVer_unicode     =1.0
 
-spVer_P90=1.0
-spVer_QR100=1.0
-spVer_QR200=1.0
-spVer_QR300=1.0
+spVer_P90       =1.0
+spVer_QR100     =1.0
+spVer_QR200     =1.0
+spVer_QR300     =1.0
 
 [mainApp]
 0.19=Sharelibs/mainApp/V0.19.7z
@@ -34,3 +34,7 @@ P90=Sharelibs/sp/SP_P90.7z
 QR100=Sharelibs/sp/SP_QR100.7z
 QR200=Sharelibs/sp/SP_QR200BW.7z
 QR300=Sharelibs/sp/SP_QR300.7z
+
+[tools]
+ARMCT=Sharelibs/tools/ARMCT5.01.7z
+cygwin=Sharelibs/tools/cygwin.7z
